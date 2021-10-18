@@ -1,0 +1,16 @@
+# To use this config for code formatting,
+# Install the "editorconfig" plugin from VSCode marketplace.
+# See https://editorconfig.org/ for details
+
+[*]
+end_of_line = crlf
+insert_final_newline = true
+trim_trailing_whitespace = true
+
+[*.js, *.json]
+charset = utf-8
+indent_style = space
+indent_size = 2
+
+[*.md]
+trim_trailing_whitespace = false
