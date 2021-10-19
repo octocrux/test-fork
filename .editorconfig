@@ -1,6 +1,6 @@
 # To use this config for code formatting,
 # Install the "editorconfig" plugin from VSCode marketplace.
-# See https://editorconfig.org/ for details
+# See https://editorconfig.org/ for details 123
 
 [*]
 end_of_line = crlf
